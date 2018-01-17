@@ -1,0 +1,8 @@
+Final Project Proposal:
+
+We plan to do a basic stock portfolio performance calculator. It will include a function to load transactions and build the portfolio, essentially 
+establish what stocks are held in the portfolio (ex. enter a trade of 10 shares of Apple stock, bought on 5/4/2017 at a price of $123.49). It will 
+include a function to load daily metrics for the stocks that are held in the portfolio, for example a daily closing price. It will include a function
+that calculates to-date gain/loss (in $) and performance (in %) of each position and of the portfolio as a whole for each day. We will plot performance
+of each stock, as well as the portfolio as a whole, and we will use plotting to compare it to some standard industry benchmarks, such as the 
+S&P 500 or similar stocks. We will also explore some ways of projecting future performance modeling. 
